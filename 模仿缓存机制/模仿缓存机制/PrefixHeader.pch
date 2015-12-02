@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  模仿缓存机制
+//
+//  Created by lanou3g on 15/11/27.
+//  Copyright © 2015年 陈伟. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import "UIImageView+Cache.h"
+#import "CacheManager.h"
+#import "MBProgressHUD.h"
+#import "JSONKit.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
